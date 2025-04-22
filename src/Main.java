@@ -7,6 +7,9 @@ public class Main {
                     "bnbnn" +
                     "hbhbjnjknj");
         }
-    }
 
+    }
+public void method(){
+    System.out.println("new changes in the Main class");
+}
 }
