@@ -1,5 +1,5 @@
 public class Elizat {
     public static void main(String[] args) {
-        System.out.println("elizat_2");
+        System.out.println("abc1");
     }
 }
